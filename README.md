@@ -1,7 +1,7 @@
 # Cook&Cake
 Projet réalisé par la #WildNight  
 
-Membres du groupe: Yasmine,[Mohamed](https://github.com/Mohamed-Lababidi),[Loukman](https://github.com/Louk92),[Mamed](https://github.com/Mamednoor) et [Aurélien](https://github.com/Phila10)  
+Membres du groupe: [Yasmine](https://github.com/mineyas),[Mohamed](https://github.com/Mohamed-Lababidi),[Loukman](https://github.com/Louk92),[Mamed](https://github.com/Mamednoor) et [Aurélien](https://github.com/Phila10)  
 
 
 ### Description :  
