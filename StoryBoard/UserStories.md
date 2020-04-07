@@ -1,6 +1,6 @@
 ## User Stories :
 
-#User Stories :
+### User Stories :
 
 - Je veux naviguer avec les boutons de la navbar
 - Je veux pouvoir aller sur toutes les pages
@@ -15,7 +15,7 @@
 - Je veux pouvoir me renseigner sur l'application
 - Je veux un logo
 
- #Je veux avoir le choix :s
+ #### Je veux avoir le choix :
  
 - Je veux pouvoir filtrer les recettes rapides et longues
 - Je veux filtrer les recettes par nombre de personne

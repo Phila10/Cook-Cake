@@ -8,4 +8,4 @@ Membres du groupe: [Yasmine](https://github.com/mineyas),[Mohamed](https://githu
 
 Deuxieme projet au sein de la [**Wild Code School**](https://www.wildcodeschool.com/fr-FR).  
 
-Une application de présentation de recettes sur le principe de Swipe(Tinder),avec possibilité de proposer ses propres recettes et système de notation.
+Une application de présentation de recettes(entrée,plat,dessert) sur le principe de Swipe(Tinder), avec possibilité de proposer ses propres recettes et un système de notation.
